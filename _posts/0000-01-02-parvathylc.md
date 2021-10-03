@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This is awesome. I am learning github pull request
 Use the left arrow to go back!
 
